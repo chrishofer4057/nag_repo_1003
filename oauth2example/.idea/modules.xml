@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authorization-code/authorization-code.iml" filepath="$PROJECT_DIR$/authorization-code/authorization-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-example/client-example.iml" filepath="$PROJECT_DIR$/client-example/client-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2example.iml" filepath="$PROJECT_DIR$/oauth2example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secure-server/secure-server.iml" filepath="$PROJECT_DIR$/secure-server/secure-server.iml" />
+    </modules>
+  </component>
+</project>
